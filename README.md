@@ -1,9 +1,11 @@
 # Online Mentorship Program by campusX
 This is the repository for campusX ML mentorship program
 
-# First Session - Python Basics
+# Session 1 - Python Basics
 [click here for solution](https://github.com/gm965/campusX/blob/main/session_1_tasks.ipynb)
 
-# Second Session - Python Controls (If else, Loops)
+# Session 2 - Python Controls (If else, Loops)
 [click here for solution](https://github.com/gm965/campusX/blob/main/session_2_task.ipynb)
 
+# Session 3 - Python Controls (Strings)
+[click here for solution](https://github.com/gm965/campusX/blob/main/session_3_task.ipynb)
