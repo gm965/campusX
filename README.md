@@ -9,3 +9,6 @@ This is the repository for campusX ML mentorship program
 
 # Session 3 - Python Strings
 [click here for solution](https://github.com/gm965/campusX/blob/main/session_3_task.ipynb)
+
+# Session 4 - Python Lists
+[click here for solution](https://github.com/gm965/campusX/blob/main/session_4_task.ipynb)
