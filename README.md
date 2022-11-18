@@ -12,3 +12,6 @@ This is the repository for campusX ML mentorship program
 
 # Session 4 - Python Lists
 [click here for solution](https://github.com/gm965/campusX/blob/main/session_4_task.ipynb)
+
+# Session 4 - Python Tuples, Sets and Dictionary
+[click here for solution](https://github.com/gm965/campusX/blob/main/session_5_task.ipynb)
